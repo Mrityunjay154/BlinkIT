@@ -1,7 +1,27 @@
-# Ski-dashboard
+# BlinkIT-dashboard
 ## Recommended Structure and Order
 ### 1.	Project Title / Headline
-A concise, descriptive name for the dashboard.
-Example: 
 🛒 BlinkIT: Real-Time Retail & Delivery Insights Dashboard
 A dynamic PowerBI dashboard built to explore Blinkit's operational data—focusing on delivery performance, regional demand trends, product category insights, and fulfillment efficiency.
+
+### 2.	Short Description / Purpose
+🛒 BlinkSight Dashboard is a visually rich and analytical Power BI report designed to help users explore and monitor key metrics across Blinkit's hyperlocal delivery ecosystem. The dashboard focuses on delivering insights into real-time order trends, delivery turnaround times, regional demand variations, product category performance, and inventory movement.
+This tool is intended for use by operations managers, category analysts, supply chain strategists, and business decision-makers who seek to drive efficiency, optimize product assortment, and enhance customer satisfaction through data-driven strategies within the quick commerce domain.
+
+### 3.	Tech Stack
+The dashboard was built using the following tools and technologies:<br>
+•	📊 Power BI Desktop – Main data visualization platform used for report creation.<br>
+•	📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.<br>
+•	🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.<br>
+•	📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.<br>
+•	📁 File Format – .pbix for development and .png for dashboard previews.
+
+### 4.	Features / Highlights
+•	Business problem
+•	Goal of the dashboard
+•	Walk through of key visuals (briefly!)
+•	Business impact & Insights
+
+### 5.	Screenshots / Demos
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Example: ![Dashboard Preview](https://github.com/Mrityunjay154/BlinkIT/blob/main/Snapshot%20of%20Dashboard.png)
