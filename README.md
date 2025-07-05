@@ -29,4 +29,4 @@ The dashboard was built using the following tools and technologies:<br>
 •	Average Rating: The average customer rating for items sold.<br>
 
 ### 5.	Screenshots / Demos
-Example: [Dashboard Preview](https://github.com/Mrityunjay154/BlinkIT/blob/main/Snapshot%20of%20Dashboard.png)
+Example: ![Dashboard Preview](https://github.com/Mrityunjay154/BlinkIT/blob/main/Snapshot%20of%20Dashboard.png)
