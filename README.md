@@ -23,5 +23,4 @@ The dashboard was built using the following tools and technologies:<br>
 •	Business impact & Insights
 
 ### 5.	Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
 Example: ![Dashboard Preview](https://github.com/Mrityunjay154/BlinkIT/blob/main/Snapshot%20of%20Dashboard.png)
