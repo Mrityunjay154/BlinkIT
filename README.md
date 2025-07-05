@@ -22,5 +22,11 @@ The dashboard was built using the following tools and technologies:<br>
 •	Walk through of key visuals (briefly!)
 •	Business impact & Insights
 
+### 5.	KPIs
+•	Total Sales: The overall revenue generated from all items sold.
+•	Average Sales: The average revenue per sale.
+•	Number of Items: The total count of different items sold.
+•	Average Rating: The average customer rating for items sold.
+
 ### 5.	Screenshots / Demos
 Example: ![Dashboard Preview](https://github.com/Mrityunjay154/BlinkIT/blob/main/Snapshot%20of%20Dashboard.png)
