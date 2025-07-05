@@ -17,16 +17,16 @@ The dashboard was built using the following tools and technologies:<br>
 •	📁 File Format – .pbix for development and .png for dashboard previews.
 
 ### 4.	Features / Highlights
-•	Business problem
-•	Goal of the dashboard
-•	Walk through of key visuals (briefly!)
-•	Business impact & Insights
+•	Business problem<br>
+•	Goal of the dashboard<br>
+•	Walk through of key visuals<br>
+•	Business impact & Insights<br>
 
 ### 5.	KPIs
-•	Total Sales: The overall revenue generated from all items sold.
-•	Average Sales: The average revenue per sale.
-•	Number of Items: The total count of different items sold.
-•	Average Rating: The average customer rating for items sold.
+•	Total Sales: The overall revenue generated from all items sold.<br>
+•	Average Sales: The average revenue per sale.<br>
+•	Number of Items: The total count of different items sold.<br>
+•	Average Rating: The average customer rating for items sold.<br>
 
 ### 5.	Screenshots / Demos
-Example: ![Dashboard Preview](https://github.com/Mrityunjay154/BlinkIT/blob/main/Snapshot%20of%20Dashboard.png)
+Example: [Dashboard Preview](https://github.com/Mrityunjay154/BlinkIT/blob/main/Snapshot%20of%20Dashboard.png)
